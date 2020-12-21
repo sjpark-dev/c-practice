@@ -1,7 +1,7 @@
 # C language practice
 
 ## Sections
-### 00 변수와 연산자
+### [00 변수와 연산자](https://github.com/sjpark-dev/c-practice/tree/master/section00)
 ### 01 조건문
 ### 02 단일 반복문
 ### 03 중첩 반복문
